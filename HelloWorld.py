@@ -1,2 +1,2 @@
-main()
-{}
+#Hello World!
+print("Hello World")
